@@ -1,0 +1,13 @@
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.csprojAssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.exe
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.deps.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.runtimeconfig.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.runtimeconfig.dev.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.dll
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\bin\Debug\netcoreapp3.1\Day2Group8.pdb
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.dll
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.pdb
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\Day2Group8\obj\Debug\netcoreapp3.1\Day2Group8.genruntimeconfig.cache
